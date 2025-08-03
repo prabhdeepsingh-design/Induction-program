@@ -34,5 +34,5 @@ The event concluded with a heartfelt **Vote of Thanks** by **Dr. K.S. Mann**, Ho
 
 ---
 
-### 🚀 Here's to a journey full of innovation, learning, and transformation.  
-**Welcome to the GNDEC family! 💙**
+## Introduction with teachers 
+After break all students grouped with their respective mentors and 
