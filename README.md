@@ -1,6 +1,6 @@
 # Induction-program
 Prabhdeep Singh ,IT C
-#Day 1
+## Day 1
 # Welcome to GNDEC CSE & IT Freshers 2025!
 
 A warm and inspiring welcome was given to the newly admitted students of **Computer Science and Engineering (CSE)** and **Information Technology (IT)** at **Guru Nanak Dev Engineering College, Ludhiana**.
