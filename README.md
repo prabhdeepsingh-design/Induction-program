@@ -36,4 +36,7 @@ The event concluded with a heartfelt **Vote of Thanks** by **Dr. K.S. Mann**, Ho
 
 ## Introduction with teachers 
 After break all students grouped with their respective mentors and afterthat we went to classroom.
-<bv>
+<bv> Also** -I meet with my all professors.
+<bv>They all have great nature.They gave introduction on PPT which enhance my visual skills. 
+Moreover, 
+
