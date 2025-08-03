@@ -27,7 +27,7 @@ They shared how dedication and involvement beyond the classroom shaped their suc
 - **Er. Ravinder Garg** – Chief Engineer, Municipal Corporation, Ludhiana  
 - **Er. Rakesh Kumar** – GNDEC Alumnus (Batch 1991), ADC Ludhiana  
 
-Thank you for sharing your inspiring journeys and encouraging students to grow with **values, skills, and vision**.
+Thank you for sharing your inspiring journeys and encouragin students to grow with **values, skills, and vision**.
 
 ## 🙌 Vote of Thanks
 The event concluded with a heartfelt **Vote of Thanks** by **Dr. K.S. Mann**, HoD IT.
@@ -35,4 +35,5 @@ The event concluded with a heartfelt **Vote of Thanks** by **Dr. K.S. Mann**, Ho
 ---
 
 ## Introduction with teachers 
-After break all students grouped with their respective mentors and 
+After break all students grouped with their respective mentors and afterthat we went to classroom.
+<bv>
