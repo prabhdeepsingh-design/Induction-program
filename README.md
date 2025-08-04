@@ -41,3 +41,5 @@ After break all students grouped with their respective mentors and afterthat we 
 Moreover,I can say that it was experiencefull of my life.
 I feel greatfull to be a part of GNDEC 
 
+## Day 2
+
